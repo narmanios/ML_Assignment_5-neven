@@ -6,7 +6,7 @@ This project demonstrates the use of a Multi-layer Perceptron (MLP) classifier f
 ## Model Configuration
 The MLP classifier is configured with the following parameters:
 - `hidden_layer_sizes`: The number of neurons in each hidden layer. Several configurations were tried:
-  - `(12, 36, 51)` (current configuration)
+  - `(12, 36, 51)`
   - `(25, 50, 75)`
   - `(50, 50)`
   - `(100, 50)`
